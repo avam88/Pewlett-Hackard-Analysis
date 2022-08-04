@@ -4,8 +4,9 @@
 ## Creation & Implementation of Mentoring Program to Address Institutional Knowledge Loss
 ### The company has additionally asked for analysis help in determing employees close to retirement age with a high leve of domain knowledge to identify as potential candidates for an internal mentoring program. The mentorship program is a mechanism to help the company manage the proper transfer of institutional knowledge to the incoming employees during their retirement bubble. 
 
-## Results: 
-### Assumptions: we set our retirement eligiblity requirements as current employees born between January 1st, 1952 and December 31st, 1955. In this way we filtered our employee database to use only the employees that fit these criteria to return these analysis results
+# Results: 
+## Assumptions: 
+### we set our retirement eligiblity requirements as current employees born between January 1st, 1952 and December 31st, 1955. In this way we filtered our employee database to use only the employees that fit these criteria to return these analysis results
 - Comparitive Analysis of Current Workforce to Retiring Workforce
 Currently there are 240,124 total employees of which 72,548 are eligible for retirement - nearly 30% of the workforce for this company will be retiring soon. This retirement bubble - the "Silver Tsunami" - creates a skill and knowledge defecit that will have enormous impacts on the companies productivity and efficiency. The company will need an aggressive plan to allocate resources needed to hire and train new staff.
 - Seniority of Retiring Workforce
